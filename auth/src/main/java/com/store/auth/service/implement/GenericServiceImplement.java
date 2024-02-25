@@ -1,4 +1,4 @@
-package com.store.auth.service.implent;
+package com.store.auth.service.implement;
 
 import com.store.auth.service.GenericService;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,11 +1,8 @@
-package com.store.auth.service.implent;
+package com.store.auth.service.implement;
 
 import com.store.auth.domain.Company;
-import com.store.auth.domain.User;
 import com.store.auth.repository.CompanyRepository;
-import com.store.auth.repository.UserRepository;
 import com.store.auth.service.CompanyService;
-import com.store.auth.service.UserService;
 import org.springframework.stereotype.Service;
 
 @Service

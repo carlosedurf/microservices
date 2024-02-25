@@ -1,4 +1,4 @@
-package com.store.auth.service.implent;
+package com.store.auth.service.implement;
 
 import com.store.auth.domain.User;
 import com.store.auth.repository.UserRepository;
